@@ -156,17 +156,6 @@ This model is designed for pharmacokinetic research in microgravity environments
 - Transporter function modifications under microgravity
 - Predictive modeling for astronaut medication protocols
 
-## 🤝 Contributing
-
-Feel free to contribute to this project by:
-1. Forking the repository
-2. Creating a feature branch
-3. Making your changes
-4. Submitting a pull request
-
-## 📧 Contact
-
-For questions or collaboration opportunities, please open an issue in this repository.
 
 ## 📄 License
 
